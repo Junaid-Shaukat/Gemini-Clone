@@ -6,7 +6,6 @@ const App = () => {
     <>
     <Sidebar/>
     <Main/>
-    
     </>
   )
 }
